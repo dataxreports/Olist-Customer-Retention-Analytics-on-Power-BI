@@ -339,25 +339,6 @@ These values can change when slicers are applied.
 -   Interactive dashboard design
 -   Business metric definition
 
-## Suggested GitHub Structure
-
-``` text
-Olist-Customer-Retention-Analytics/
-│
-├── README.md
-├── sql/
-│   ├── business_metrics.sql
-│   ├── repeat_customers.sql
-│   └── cohort_retention.sql
-├── dax/
-│   └── measures.md
-├── power_query/
-│   └── transformation_notes.md
-├── screenshots/
-│   └── dashboard.png
-└── powerbi/
-    └── Olist_Customer_Retention_Analytics.pbix
-```
 
 ## Conclusion
 
